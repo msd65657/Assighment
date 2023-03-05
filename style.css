@@ -1,0 +1,444 @@
+*{
+    box-sizing: border-box;
+}
+.uppernavbar{
+    background-color: rgb(59, 52, 63);
+    width: 100%;
+    height: 80vh;
+}
+.leftarea ul{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    list-style: none;
+    left: 450px;
+    color:  rgb(144, 134, 155);
+    top: 10px;
+}
+#home{
+    color: white;
+    right: 30px;
+    position: relative;
+    top: 0px;
+}
+.adam{
+    color: white;
+    position: relative;
+    bottom: 33px;
+    left: 230px;
+}
+#im{
+    position: relative;
+    left: 200px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  rgb(144, 134, 155);
+}
+#james{
+    position: relative;
+    left: 200px;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    bottom: 50px;
+    color: white;
+}
+.img{
+    position: relative;
+    width: 1%;
+    height: 3vh;
+    bottom: 28px;
+    left: 155px;
+}
+.img2{
+    position: relative;
+    left: 540px;
+    bottom: 770px;
+    width: 18%;
+    opacity: 90%;
+}
+.jam{
+    color: white;
+}
+#p1{
+    position: relative;
+    left: 200px;
+    bottom: 80px;
+    color:  rgb(144, 134, 155);
+    font-size: 20px;
+}
+#image{
+    position: relative;
+    display: flex;
+    
+}
+.rightarea{
+    position: relative;
+    left: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    bottom: 360px;
+    color: white;
+}
+.lowernavbar{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(89, 78, 95);
+    height: 10vh;
+    bottom:1060px;
+    width: 60%;
+    left: 230px;
+}
+#meta{
+    width: 70%;
+    height: 2vh;
+    top: 1px;
+    position: relative;
+    right: 10px;
+}
+
+#google{
+    width: 70%;
+    height: 4vh;
+    top: 2px;
+    position: relative;
+    right: 3px;
+}
+#linkedin{
+    width: 70%;
+    height: 12vh;
+    bottom: 23px;
+    position: relative;
+    right: 2px;
+}
+#slack{
+    width: 70%;
+    height: 4vh;
+    bottom: 2px;
+    position: relative;
+    left: 0px;
+}
+.btn1{
+    width: 10%;
+    height: 6vh;
+    top: 2px;
+    position: relative;
+    background:  rgb(59, 52, 63);
+    right: 250px;
+}
+.btn2{
+    width: 10%;
+    height: 6vh;
+    top: 2px;
+    position: relative;
+    background:  rgb(59, 52, 63);
+    right: 90px;
+}
+.btn3{
+    width: 10%;
+    height: 6vh;
+    top: 2px;
+    position: relative;
+    background:  rgb(59, 52, 63);
+    left: 80px;
+}
+.btn4{
+    width: 10%;
+    height: 6vh;
+    top: 2px;
+    position: relative;
+    background:  rgb(59, 52, 63);
+    left: 250px;
+}
+.part1{
+    background-color:  rgb(32, 28, 34);
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    bottom: 265px;
+}
+#para{
+    position: relative;
+    top: 40px;
+    left: 190px;
+    color: white;
+    font-size: 40px;
+}
+#para2{
+    position: relative;
+    top: 20px;
+    left: 190px;
+    color: white;
+    font-size: 20px;
+}
+#h1{
+    position: relative;
+    bottom: 10px;
+    left: 190px;
+    font-size: 30px
+}
+.project{
+    position: relative;
+    bottom: 30px;
+    left: 190px;
+    font-size: 15px;
+    color: white;
+}
+#h2{
+    position: relative;
+    bottom: 110px;
+    left: 450px;
+    font-size: 30px
+}
+.project1{
+    position: relative;
+    bottom: 130px;
+    left: 450px;
+    font-size: 15px;
+    color: white;
+}
+#h3{
+    position: relative;
+    bottom: 90px;
+    left: 190px;
+    font-size: 30px
+}
+.project2{
+    position: relative;
+    bottom: 110px;
+    left: 190px;
+    font-size: 15px;
+    color: white;
+}
+#h4{
+    position: relative;
+    bottom: 185px;
+    left: 450px;
+    font-size: 30px
+}
+.project3{
+    position: relative;
+    bottom:205px;
+    left: 450px;
+    font-size: 15px;
+    color: white;
+}
+.part2{
+    position: relative;
+    bottom: 120px;
+}
+#UI{
+    position: relative;
+    left: 1000px;
+    bottom: 780px;
+    width: 10%;
+    height: 12vh;
+}
+.UI1{
+    position: relative;
+    left: 1190px;
+    bottom: 880px;
+    color: white;
+}
+#end{
+    position: relative;
+    left: 1000px;
+    bottom: 820px;
+    width: 10%;
+    height: 12vh;
+}
+.end1{
+    position: relative;
+    left: 1190px;
+    bottom: 920px;
+    color: white;
+}
+#app{
+    position: relative;
+    left: 1000px;
+    bottom: 870px;
+    width: 10%;
+    height: 12vh;
+}
+.app1{
+    position: relative;
+    left: 1190px;
+    bottom: 960px;
+    color: white;
+}
+.icon{
+    position: relative;
+    width: 10%;
+    height: 4vh;
+    bottom: 260px;
+}
+#insta{
+    position: relative;
+    width: 20%;
+    height: 4.5vh;
+    bottom: 1510px;
+    left: 900px;
+}
+#twiter{
+    position: relative;
+    width: 25%;
+    height: 4.5vh;
+    bottom: 1512px;
+    left: 920px;
+}
+#facebook{
+    position: relative;
+    width: 25%;
+    height: 6vh;
+    bottom: 1500px;
+    left: 940px;
+}
+#p-symbol{
+    position: relative;
+    width: 30%;
+    height: 6vh;
+    bottom: 1550px;
+    left: 1080px;
+}
+.ar1{
+    width: 2%;
+    height: 1.1vh;
+    position: relative;
+    bottom: 1660px;
+    left: 1040px;
+}
+.ar2{
+    width: 2%;
+    height: 1.1vh;
+    position: relative;
+    bottom: 1280px;
+    left: 1360px;
+}
+.ar3{
+    width: 2%;
+    height: 1.1vh;
+    position: absolute;
+    bottom: 1145px;
+    left: 1360px;
+}
+.ar4{
+    width: 2%;
+    height: 1.1vh;
+    position: relative;
+    bottom: 1010px;
+    left: 1330px;
+}
+#arrow{
+    bottom: 900px;
+}
+.circle{
+    background-color:  rgb(32, 28, 34);
+    border-radius: 100%;
+    width: 25%;
+    height: 50vh;
+    left: 480px;
+    bottom: 400px;
+    position: relative;
+    opacity: 70%;
+}
+#circle1{
+    position: relative;
+    left: 140px;
+    top: 60px;
+    color:  rgb(32, 28, 34);
+}
+#bottom1{
+    position: relative;
+    background-color:  rgb(89, 78, 95);
+    width: 12%;
+    height: 20vh;
+    bottom: 1110px;
+    left: 180px;
+}
+.desighn{
+    position: relative;
+    top: 35px;
+    font-size: 20px;
+    left: 22px;
+}
+.style1{
+    position: relative;
+    top: 28px;
+    left: 16px;
+}
+#bottom2{
+    position: relative;
+    background-color:  rgb(89, 78, 95);
+    width: 12%;
+    height: 20vh;
+    bottom: 1280px;
+    left: 600px;
+}
+.web{
+    position: relative;
+    top: 35px;
+    font-size: 20px;
+    left: 20px;
+}
+.style2{
+    position: relative;
+    top: 28px;
+    left: 6px;
+}
+#bottom3{
+    position: relative;
+    background-color:  rgb(89, 78, 95);
+    width: 12%;
+    height: 20vh;
+    bottom: 1455px;
+    left:1040px ;
+}
+.mbl{
+    position: relative;
+    top: 35px;
+    font-size: 20px;
+    left: 10px;
+}
+.style3{
+    position: relative;
+    top: 28px;
+    left: 8px;
+}
+#icons{
+    width: 2%;
+    height: 1vh;
+}
+.uppernavbar1{
+    list-style: none;
+    position: relative;
+    bottom: 2820px;
+    left: 1200px;
+}
+.leftarea1 ul{
+display: flex;
+gap: 50px;
+list-style: none;
+}
+#cross{
+    height: 30px;
+    width: 30px;
+}
+#cross:hover{
+    background-color: azure;
+}
+#in-logo{
+    height: 30px;
+    width: 30px;
+}
+#in-logo:hover{
+    background-color: azure;
+}
+#three{
+    height: 30px;
+    width: 20px;
+}
+#three:hover{
+    background-color: azure;
+}
